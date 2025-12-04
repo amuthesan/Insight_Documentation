@@ -44,3 +44,4 @@ While the test plan provides a structured guide, I encourage you to use the Insi
 | :--- | :--- | :--- |
 | **Movement** | **Left Joystick** | Forward / Reverse / Turn Rover |
 | **Gimbal** | **Right Joystick** | Pitch (Up/Down) & Yaw (Left/Right) |
+| **Arm/Disarm** | **JoystickButton A** | Arm / Disarm Rover |
