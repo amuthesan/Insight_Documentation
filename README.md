@@ -6,6 +6,15 @@
 ## Beta Test Plan
 Please download the `Insight Light Rover Beta v0.1.pdf` for the detailed test plan.
 
+### Validation Feedback Form
+We have also included a `Insight Rover EVT, DVT.pdf` which contains the **Validation Feedback Form**.
+*   **Objective**: This form is critical for tracking the Engineering Validation Test (EVT) status.
+*   **Instructions**: Please fill out this form as you conduct your tests. It covers:
+    *   **Boot & Connection**: Verifying basic system startup and connectivity.
+    *   **Mechanical Function**: Testing joystick controls and zoom.
+    *   **Recording Logic**: Ensuring auto-recording works.
+    *   **Critical Blockers**: Any issues that prevent testing must be noted here.
+
 **A Note on Testing:**
 While the test plan provides a structured guide, I encourage you to use the Insight Light Rover in your real-world use cases. Simulated tests are helpful, but real-world usage often reveals valuable insights and potential issues that might not appear in controlled environments. Your feedback from actual field operations is incredibly important to us!
 
