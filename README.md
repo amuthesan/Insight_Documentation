@@ -7,7 +7,7 @@
 Please download the `Insight Light Rover Beta v0.1.pdf` for the detailed test plan.
 
 ### Validation Feedback Form
-We have also included a `Insight Rover EVT, DVT.pdf` which contains the **Validation Feedback Form**.
+I have also included a `Insight Rover EVT, DVT.pdf` which contains the **Validation Feedback Form**.
 *   **Objective**: This form is critical for tracking the Engineering Validation Test (EVT) status.
 *   **Instructions**: Please fill out this form as you conduct your tests. It covers:
     *   **Boot & Connection**: Verifying basic system startup and connectivity.
